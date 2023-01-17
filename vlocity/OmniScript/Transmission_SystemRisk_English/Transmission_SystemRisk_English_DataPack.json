@@ -1,0 +1,24 @@
+{
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": false,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": true,
+    "Language": "English",
+    "Name": "System Risk Decision",
+    "OmniProcessElement": [
+        "Transmission_SystemRisk_English_Element_Step-1.json",
+        "Transmission_SystemRisk_English_Element_System-Risk-Decision.json",
+        "Transmission_SystemRisk_English_Element_CustomLWC1.json"
+    ],
+    "OmniProcessType": "OmniScript",
+    "PropertySetConfig": "Transmission_SystemRisk_English_PropertySetConfig.json",
+    "SubType": "SystemRisk",
+    "Type": "Transmission",
+    "UniqueName": "Transmission_SystemRisk_English_1",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/Transmission/SystemRisk/English",
+    "WebComponentKey": "dd3bba27-699d-3ea5-3958-00cf45a8ea45"
+}
