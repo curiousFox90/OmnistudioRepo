@@ -1,0 +1,25 @@
+{
+    "DesignerCustomizationType": "Discovery Framework",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": false,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": true,
+    "Language": "English",
+    "Name": "UW_FMAQuestionnaireScript",
+    "OmniProcessElement": [
+        "Underwriter_FMA_English_Element_Step1.json",
+        "Underwriter_FMA_English_Element_Block1.json",
+        "Underwriter_FMA_English_Element_RationaleNote.json"
+    ],
+    "OmniProcessType": "OmniScript",
+    "PropertySetConfig": "Underwriter_FMA_English_PropertySetConfig.json",
+    "SubType": "FMA",
+    "Type": "Underwriter",
+    "UniqueName": "Underwriter_FMA_English_1",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/Underwriter/FMA/English",
+    "WebComponentKey": "80d86d4a-89db-63c5-07ed-369fed56fb7d"
+}
